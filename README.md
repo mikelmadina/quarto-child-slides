@@ -3,7 +3,11 @@
 Ejemplo simple sobre cómo reutilizar contenido de diapositivas en diversas presentaciones de Quarto. Se ha usado RStudio como IDE.
 
 -   Archivos de **diapositivas**: archivos QMD con contenido reutilizable en presentaciones.
--   Archivos de **presentación**: archivos QMD que incluyen contenido propio y/o de archivos de diapositivas.
+-   Archivos de **presentación**: archivos QMD que incluyen contenido propio y/o de archivos de diapositivas. Las llamadas a los archivos de diapositivas se realizan con este código:
+
+```         
+{{< include "ruta-al-archivo" >}}
+```
 
 A tener en cuenta:
 
