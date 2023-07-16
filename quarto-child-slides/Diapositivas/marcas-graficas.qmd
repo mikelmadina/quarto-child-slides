@@ -1,0 +1,9 @@
+---
+format: revealjs
+---
+
+## Marcas gráficas con código markdown
+
+![Ejemplo de marcas simples y compuestas](Diapositivas/images/marcas.png)
+
+

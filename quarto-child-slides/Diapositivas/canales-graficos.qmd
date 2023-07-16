@@ -1,0 +1,7 @@
+---
+format: revealjs
+---
+
+## Canales gráficos
+
+![Ejemplo de canales gráficos](Diapositivas/images/canales.png)

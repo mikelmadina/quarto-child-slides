@@ -1,0 +1,10 @@
+---
+title: "Presentación larga"
+format: revealjs
+---
+
+
+{{< include "Diapositivas/marcas-graficas.qmd" >}}
+
+
+{{< include "Diapositivas/canales-graficos.qmd" >}}
